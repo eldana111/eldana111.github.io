@@ -4,7 +4,7 @@ title: I like drawing verry well and I think that imagination is amazing power o
 permalink: /about/
 ---
 
-Some information about you!
+I am from Kazakhstan and I created this blog for to develop my English.
 
 ### More Information
 
