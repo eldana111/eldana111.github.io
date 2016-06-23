@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: I like drawing verry well and I think that imagination is amazing power of humanity.
 permalink: /about/
 ---
 
