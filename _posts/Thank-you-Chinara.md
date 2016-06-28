@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: guest from Kyrgyzstan.
 ---
 ![_config.yml](http://photos1.meetupstatic.com/photos/member/a/f/0/c/highres_117104812.jpeg)
