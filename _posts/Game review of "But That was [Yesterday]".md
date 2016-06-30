@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Game Review of "But That Was [Yesterday]"
 ---
 ![_config.yml](http://www.onemrbean.com/wp-content/uploads/2011/01/btwy_screen6.jpg)
